@@ -1,0 +1,2 @@
+# GUI-llotine
+Prevent AI UI slop and generic vibe-coded frontend patterns. Use whenever designing, building, styling, refactoring, or reviewing web UIs, mobile interfaces, landing pages, dashboards, HTML/CSS, Tailwind, React, or component libraries.
